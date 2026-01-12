@@ -1,12 +1,12 @@
 [
   {
-    "title": "Rhino Log Hook",
-    "description": "Advanced dynamic JS hooking using Rhino engine. Protected by Native layer.",
-    "key": "rhino_hook_v1",
-    "typeHeader": "Downloaded Plugins",
-    "version": 2,
-    "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/scripts/rhino_script_encrypted.txt",
-    "scriptPath": "rhino_script.js"
+    "title": "TextView Hook",
+    "description": "TextView text change",
+    "key": "textHook",
+    "typeHeader": "UI",
+    "version": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/setTextView.js",
+    "scriptPath": "textview_script.js"
   },
   {
     "title": "Network Sniffer",
