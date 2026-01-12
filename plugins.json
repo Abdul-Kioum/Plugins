@@ -4,7 +4,7 @@
     "description": "TextView text change",
     "key": "textHook",
     "typeHeader": "UI",
-    "version": 1,
+    "version": 2,
     "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/setTextView.js",
     "scriptPath": "textview_script.js"
   },
