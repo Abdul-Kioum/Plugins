@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Rhino Log Hook",
+    "description": "Advanced dynamic JS hooking using Rhino engine. Protected by Native layer.",
+    "key": "rhino_hook_v1",
+    "typeHeader": "Downloaded Plugins",
+    "version": 2,
+    "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/scripts/rhino_script_encrypted.txt",
+    "scriptPath": "rhino_script.js"
+  },
+  {
+    "title": "Network Sniffer",
+    "description": "Capture and analyze network traffic in real-time.",
+    "key": "net_sniff",
+    "typeHeader": "Network",
+    "version": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/scripts/net_sniff.enc",
+    "scriptPath": "net_sniff.js"
+  },
+  {
+    "title": "Database Viewer",
+    "description": "Explore and modify app databases on the fly.",
+    "key": "db_view",
+    "typeHeader": "Database",
+    "version": 1,
+    "downloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/scripts/db_view.enc",
+    "scriptPath": "db_view.js"
+  }
+]
