@@ -1,4 +1,4 @@
-console.log("Applying hook on initializeLicenseCheck...");
+console.log("Applying hook on Pairip Protection");
 
 XposedHelpers.findAndHookMethod(
     "com.pairip.licensecheck.LicenseClient", 
