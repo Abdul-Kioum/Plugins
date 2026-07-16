@@ -4,7 +4,7 @@
       "title": "Hide Root",
       "shortDescription": "Hide root access from detection systems",
       "version": 2,
-      "typeHeader": "Hide Root",
+      "category": "Hide Root",
       "fullDetails": {
         "about": "A plugin designed to conceal root access on your device, preventing apps and services from detecting modified system status.",
         "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/bkash.js.enc",
@@ -15,7 +15,7 @@
       "title": "Ad Blocker",
       "shortDescription": "Block ads system-wide on your device",
       "version": 1,
-      "typeHeader": "Ad Blocker",
+      "category": "Ad Blocker",
       "fullDetails": {
         "about": "An advanced ad blocking plugin that removes advertisements from apps, browsers, and games without requiring root access.",
         "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/adblock.js.enc",
@@ -26,7 +26,7 @@
       "title": "Battery Saver",
       "shortDescription": "Optimize battery performance and extend life",
       "version": 1,
-      "typeHeader": "Battery Saver",
+      "category": "Battery Saver",
       "fullDetails": {
         "about": "Intelligent battery optimization plugin that manages background processes, reduces power consumption, and extends device battery life.",
         "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/battery.js.enc",
@@ -34,17 +34,17 @@
       }
     }
   ],
-  "headers": [
+  "category": [
     {
-      "typeHeader": "Hide Root",
+      "name": "Hide Root",
       "count": 1
     },
     {
-      "typeHeader": "Ad Blocker",
+      "name": "Ad Blocker",
       "count": 1
     },
     {
-      "typeHeader": "Battery Saver",
+      "name": "Battery Saver",
       "count": 1
     }
   ]
