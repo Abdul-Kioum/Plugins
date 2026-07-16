@@ -1,50 +1,20 @@
 {
   "plugins": [
     {
-      "title": "Hide Root",
-      "shortDescription": "Hide root access from detection systems",
-      "version": 2,
-      "category": "Hide Root",
-      "fullDetails": {
-        "about": "A plugin designed to conceal root access on your device, preventing apps and services from detecting modified system status.",
-        "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/bkash.js.enc",
-        "publisher": "Abdul_Kioum"
-      }
-    },
-    {
-      "title": "Ad Blocker",
-      "shortDescription": "Block ads system-wide on your device",
+      "title": "Pairip Bypass",
+      "shortDescription": "Bypass Pairip protection system",
       "version": 1,
-      "category": "Ad Blocker",
+      "category": "Protection Bypass",
       "fullDetails": {
-        "about": "An advanced ad blocking plugin that removes advertisements from apps, browsers, and games without requiring root access.",
-        "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/adblock.js.enc",
-        "publisher": "Abdul_Kioum"
-      }
-    },
-    {
-      "title": "Battery Saver",
-      "shortDescription": "Optimize battery performance and extend life",
-      "version": 1,
-      "category": "Battery Saver",
-      "fullDetails": {
-        "about": "Intelligent battery optimization plugin that manages background processes, reduces power consumption, and extends device battery life.",
-        "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/battery.js.enc",
+        "about": "A plugin to bypass Pairip protection on Android devices, allowing unrestricted access to protected content and features.",
+        "downloadUrl": "https://raw.githubusercontent.com/Abdul-Kioum/Plugins/refs/heads/main/scripts/pairipBypass-v1.js",
         "publisher": "Abdul_Kioum"
       }
     }
   ],
   "category": [
     {
-      "name": "Hide Root",
-      "count": 1
-    },
-    {
-      "name": "Ad Blocker",
-      "count": 1
-    },
-    {
-      "name": "Battery Saver",
+      "name": "Protection Bypass",
       "count": 1
     }
   ]
